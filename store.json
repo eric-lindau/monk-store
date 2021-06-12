@@ -1,0 +1,325 @@
+{
+  "version": "0.1.0",
+  "metadata": [
+    {
+      "id": "keoegrplrq",
+      "name": "Founding vs Inheriting",
+      "url": "https://1729.com/founding-vs-inheriting/",
+      "comment": null,
+      "found": 1621121199585,
+      "last_read": "2021-05-15T23:27:21.954640Z",
+      "index_status": "Indexed",
+      "tags": [
+        "1729"
+      ]
+    },
+    {
+      "id": "w2qvihhpqc",
+      "name": "Rewriting the heart of our sync engine - Dropbox",
+      "url": "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine",
+      "comment": null,
+      "found": 1621194086365,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "flip research"
+      ]
+    },
+    {
+      "id": "yfftk8upr1",
+      "name": "Making the Tokio scheduler 10x faster | Tokio",
+      "url": "https://tokio.rs/blog/2019-10-scheduler",
+      "comment": null,
+      "found": 1621194771949,
+      "last_read": "2021-05-16T19:55:16.598853Z",
+      "index_status": "Indexed",
+      "tags": [
+        "tokio"
+      ]
+    },
+    {
+      "id": "evtwed09iw",
+      "name": "1024cores",
+      "url": "https://www.1024cores.net/home",
+      "comment": null,
+      "found": 1621196123512,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "lockfree",
+        "waitfree"
+      ]
+    },
+    {
+      "id": "z1vcbwl0ym",
+      "name": "Namespaces | Kubernetes",
+      "url": "https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/",
+      "comment": null,
+      "found": 1621199031272,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "kubernetes"
+      ]
+    },
+    {
+      "id": "lvdhvmgy2n",
+      "name": "Korean Baked Tofu Rice Bowls • The Cook Report",
+      "url": "https://thecookreport.co.uk/korean-baked-tofu-rice-bowls/",
+      "comment": null,
+      "found": 1621220490734,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "gochojang",
+        "recipe"
+      ]
+    },
+    {
+      "id": "jmnxbcgd3k",
+      "name": "Why Civilization Is Older Than We Thought | Palladium Magazine",
+      "url": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+      "comment": null,
+      "found": 1621403710422,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "Tyler Cowen"
+      ]
+    },
+    {
+      "id": "w9lono9eiv",
+      "name": "Pre-Pottery Neolithic A - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A",
+      "comment": null,
+      "found": 1621406047372,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": [
+        "History"
+      ]
+    },
+    {
+      "id": "rewualjelm",
+      "name": "Bitcoin is not an inflation hedge - Lightcone Journal",
+      "url": "https://lightconejournal.substack.com/p/bitcoin-is-not-an-inflation-hedge",
+      "comment": null,
+      "found": 1621647044616,
+      "last_read": "2021-05-22T01:38:15.868571Z",
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "epa63nktsl",
+      "name": "The Economics of Pseudonymity - The Diff",
+      "url": "https://diff.substack.com/p/the-economics-of-pseudonymity",
+      "comment": null,
+      "found": 1621649528468,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "tg9yksi54a",
+      "name": "Schema matching - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Schema_matching",
+      "comment": null,
+      "found": 1621652740906,
+      "last_read": "2021-05-22T03:05:56.350064Z",
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "cvv7rylhq1",
+      "name": "Ontology alignment - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ontology_alignment",
+      "comment": null,
+      "found": 1621652957973,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "1z6aom9ube",
+      "name": "Decision tree learning - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Decision_tree_learning",
+      "comment": null,
+      "found": 1621653608995,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "t7yvqylocc",
+      "name": "What's Up With That: Building Bigger Roads Actually Makes Traffic Worse | WIRED",
+      "url": "https://www.wired.com/2014/06/wuwt-traffic-induced-demand/?redirectURL=https%3A%2F%2Fwww.wired.com%2F2014%2F06%2Fwuwt-traffic-induced-demand%2F",
+      "comment": null,
+      "found": 1621823546717,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "islac1bw01",
+      "name": "How we fixed the ozone layer - Works in Progress",
+      "url": "https://worksinprogress.co/issue/how-we-fixed-the-ozone-layer/",
+      "comment": null,
+      "found": 1621825861701,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "m0e14vcsap",
+      "name": "Why didn't suicides rise during Covid? - Works in Progress",
+      "url": "https://worksinprogress.co/issue/why-didnt-suicides-rise-during-covid/",
+      "comment": null,
+      "found": 1621828922922,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "npi1hcoplj",
+      "name": "The Laffer Curve: Past, Present, and Future | The Heritage Foundation",
+      "url": "https://www.heritage.org/taxes/report/the-laffer-curve-past-present-and-future",
+      "comment": null,
+      "found": 1621993632763,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "8uuaoj8twi",
+      "name": " Broccoli: Syncing faster by syncing less - Dropbox",
+      "url": "https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less",
+      "comment": null,
+      "found": 1621994060749,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "yagw50ojcx",
+      "name": "\n  \n    rfc7932\n  \n",
+      "url": "https://datatracker.ietf.org/doc/html/rfc7932#section-2",
+      "comment": null,
+      "found": 1621994636290,
+      "last_read": null,
+      "index_status": null,
+      "tags": [
+        "compression",
+        "dropbox",
+        "flip"
+      ]
+    },
+    {
+      "id": "wlmayyu11w",
+      "name": "JSON Compression: Alternative Binary Formats and Compression Methods - Lucidchart",
+      "url": "https://www.lucidchart.com/techblog/2019/12/06/json-compression-alternative-binary-formats-and-compression-methods/",
+      "comment": null,
+      "found": 1621994844116,
+      "last_read": null,
+      "index_status": null,
+      "tags": [
+        "compression",
+        "data",
+        "flip",
+        "gzip",
+        "json"
+      ]
+    },
+    {
+      "id": "err7xlnnty",
+      "name": "America Needs More Luxury Housing, Not Less - The Atlantic",
+      "url": "https://www.theatlantic.com/ideas/archive/2021/04/theres-no-such-thing-luxury-housing/618548/",
+      "comment": null,
+      "found": 1621995367885,
+      "last_read": null,
+      "index_status": null,
+      "tags": [
+        "affordable housing",
+        "urban planning"
+      ]
+    },
+    {
+      "id": "n4hbqeah7d",
+      "name": "Median Consumer Price Index (MEDCPIM158SFRBCLE) | FRED | St. Louis Fed",
+      "url": "https://fred.stlouisfed.org/series/MEDCPIM158SFRBCLE",
+      "comment": null,
+      "found": 1623514882010,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "wz7khywdoz",
+      "name": " The Limits to Blockchain Scalability ",
+      "url": "https://vitalik.ca/general/2021/05/23/scaling.html",
+      "comment": null,
+      "found": 1623515144869,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    }
+  ],
+  "tags": {
+    "1729": [
+      "keoegrplrq"
+    ],
+    "History": [
+      "w9lono9eiv"
+    ],
+    "Tyler Cowen": [
+      "jmnxbcgd3k"
+    ],
+    "affordable housing": [
+      "err7xlnnty"
+    ],
+    "compression": [
+      "wlmayyu11w",
+      "yagw50ojcx"
+    ],
+    "data": [
+      "wlmayyu11w"
+    ],
+    "dropbox": [
+      "yagw50ojcx"
+    ],
+    "flip": [
+      "wlmayyu11w",
+      "yagw50ojcx"
+    ],
+    "flip research": [
+      "w2qvihhpqc"
+    ],
+    "gochojang": [
+      "lvdhvmgy2n"
+    ],
+    "gzip": [
+      "wlmayyu11w"
+    ],
+    "json": [
+      "wlmayyu11w"
+    ],
+    "kubernetes": [
+      "z1vcbwl0ym"
+    ],
+    "lockfree": [
+      "evtwed09iw"
+    ],
+    "recipe": [
+      "lvdhvmgy2n"
+    ],
+    "recipe,": [],
+    "tokio": [
+      "yfftk8upr1"
+    ],
+    "urban planning": [
+      "err7xlnnty"
+    ],
+    "waitfree": [
+      "evtwed09iw"
+    ]
+  }
+}
