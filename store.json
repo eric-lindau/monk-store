@@ -186,7 +186,7 @@
       "comment": null,
       "found": 1621993632763,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -196,7 +196,7 @@
       "comment": null,
       "found": 1621994060749,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -206,7 +206,7 @@
       "comment": null,
       "found": 1621994636290,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": [
         "compression",
         "dropbox",
@@ -220,7 +220,7 @@
       "comment": null,
       "found": 1621994844116,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": [
         "compression",
         "data",
@@ -236,7 +236,7 @@
       "comment": null,
       "found": 1621995367885,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": [
         "affordable housing",
         "urban planning"
@@ -249,7 +249,7 @@
       "comment": null,
       "found": 1623514882010,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -258,6 +258,476 @@
       "url": "https://vitalik.ca/general/2021/05/23/scaling.html",
       "comment": null,
       "found": 1623515144869,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "e2odyciv9y",
+      "name": "Old Media - Nick Notes",
+      "url": "https://nickparish.net/technology/old-media/",
+      "comment": null,
+      "found": 1624690827287,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "5jcssko8zs",
+      "name": "S.F. spends more than $60K per tent at homeless sites. Now it's being asked for another $15 million for the program",
+      "url": "https://www.sfchronicle.com/politics/article/S-F-officials-want-15-million-for-tent-sites-16269998.php",
+      "comment": null,
+      "found": 1624827010757,
+      "last_read": "2021-06-27T20:56:48.813410Z",
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "futxtdjwl8",
+      "name": "EarthSky | The 1st microsecond of the Big Bang",
+      "url": "https://earthsky.org/space/1st-microsecond-of-the-big-bang/",
+      "comment": null,
+      "found": 1624923992457,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "cdgdngoeg1",
+      "name": "https://www.sciencemag.org/news/2021/06/crispr-injected-blood-treats-genetic-disease-first-time",
+      "url": null,
+      "comment": null,
+      "found": 1624929214357,
+      "last_read": null,
+      "index_status": "Indexing",
+      "tags": []
+    },
+    {
+      "id": "zhqkqjcmjl",
+      "name": "US workers are quitting jobs at historic rates, and many unemployed are not coming back despite record job openings | PIIE",
+      "url": "https://www.piie.com/blogs/realtime-economic-issues-watch/us-workers-are-quitting-jobs-historic-rates-and-many-unemployed",
+      "comment": null,
+      "found": 1625095536815,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "abcezh9z47",
+      "name": "Will We Ever Fly Supersonically Over Land? | The New Yorker",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
+      "comment": null,
+      "found": 1625258010172,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "mn6dxcmyie",
+      "name": "In the West, the Looted Bronzes Are Museum Pieces. In Nigeria, ‘They Are Our Ancestors.’ - The New York Times",
+      "url": "https://www.nytimes.com/2021/06/23/world/africa/benin-bronzes-Nigeria-stolen.html",
+      "comment": null,
+      "found": 1625258043040,
+      "last_read": null,
+      "index_status": "Indexing",
+      "tags": []
+    },
+    {
+      "id": "4uwsohrse9",
+      "name": "io - What is the most efficient way to read a large file in chunks without loading the entire file in memory at once? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/37079342/what-is-the-most-efficient-way-to-read-a-large-file-in-chunks-without-loading-th",
+      "comment": null,
+      "found": 1625460163354,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "zja4iszhlh",
+      "name": "concurrent use of client · Issue #285 · hyperium/tonic · GitHub",
+      "url": "https://github.com/hyperium/tonic/issues/285",
+      "comment": null,
+      "found": 1625628932939,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "niz9s8axs2",
+      "name": "Concepts — Spot 2.3.5 documentation",
+      "url": "https://dev.bostondynamics.com/docs/concepts/readme",
+      "comment": null,
+      "found": 1625631257959,
+      "last_read": "2021-07-07T04:15:07.088869Z",
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "ew1pofrlly",
+      "name": "Life Advice: Become a Billionaire | Applied Divinity Studies",
+      "url": "https://applieddivinitystudies.com/billionaire/index.html",
+      "comment": null,
+      "found": 1626014354891,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "sb7pg9faos",
+      "name": "The Golden Handcuffs Were Inside of You The Whole Time | Applied Divinity Studies",
+      "url": "https://applieddivinitystudies.com/handcuffs/",
+      "comment": null,
+      "found": 1626014930641,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "2dsa8u2c9c",
+      "name": "Arecibo message - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arecibo_message",
+      "comment": null,
+      "found": 1626308936338,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "7kymsbq5fw",
+      "name": "Wow! signal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+      "comment": null,
+      "found": 1626309360320,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "45cry2jqfh",
+      "name": "All Possible Views About Humanity's Future Are Wild",
+      "url": "https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/",
+      "comment": null,
+      "found": 1626309647563,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "gy8uckcuv0",
+      "name": "Alexander the Grate on Life as an NFA (Ep.&nbsp;127) | Conversations with Tyler",
+      "url": "https://conversationswithtyler.com/episodes/alexander-the-grate/",
+      "comment": null,
+      "found": 1626309959219,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "3vvdfpeful",
+      "name": "What Does Infrastructure Mean? - The Atlantic",
+      "url": "https://www.theatlantic.com/ideas/archive/2021/07/what-does-infrastructure-mean/619419/",
+      "comment": null,
+      "found": 1626542748657,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "nbpubhgaxz",
+      "name": "Opinion | The French and Indian War and U.S. History's Complexities - The New York Times",
+      "url": "https://www.nytimes.com/2021/07/13/opinion/french-indian-war-american-history.html?action=click&module=Opinion&pgtype=Homepage",
+      "comment": null,
+      "found": 1626544277347,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "mvmotlgqfg",
+      "name": "The Grumpy Economist: Rossi-Hansberg on the effects of a carbon tax",
+      "url": "https://johnhcochrane.blogspot.com/2021/07/rossi-hansberg-on-effects-of-carbon-tax.html",
+      "comment": null,
+      "found": 1626654856820,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "bbtxsfs2d0",
+      "name": "\n        \n        Pin and suffering - fasterthanli.me\n        \n    ",
+      "url": "https://fasterthanli.me/articles/pin-and-suffering",
+      "comment": null,
+      "found": 1626743495822,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "a8unfdjqqg",
+      "name": "Improving async-await's \"Future is not Send\" diagnostic | Inside Rust Blog",
+      "url": "https://blog.rust-lang.org/inside-rust/2019/10/11/AsyncAwait-Not-Send-Error-Improvements.html",
+      "comment": null,
+      "found": 1626827382705,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "v4n4905on2",
+      "name": "Substructural type system - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Substructural_type_system",
+      "comment": null,
+      "found": 1627256208769,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "wnoliiahtj",
+      "name": "What are move semantics in Rust? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/30288782/what-are-move-semantics-in-rust",
+      "comment": null,
+      "found": 1627256302546,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "fi8p4bg3ia",
+      "name": "How to find the best food in Oaxaca - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/07/how-to-find-the-best-food-in-oaxaca.html",
+      "comment": null,
+      "found": 1627258915605,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "fbovsi5qb8",
+      "name": "The three-or-four-hours rule | Oliver Burkeman",
+      "url": "https://www.oliverburkeman.com/fourhours",
+      "comment": null,
+      "found": 1628052613912,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "gfkgeiovnq",
+      "name": "Sniffing Out New Friends: Similarity in Body-Odor Predicts the Quality of Same-Sex None-Romantic Dyadic Interactions | bioRxiv",
+      "url": "https://www.biorxiv.org/content/10.1101/2021.06.14.448352v1",
+      "comment": null,
+      "found": 1628224305435,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "rdyxwyfohl",
+      "name": "Improving async-await's \"Future is not Send\" diagnostic | Inside Rust Blog",
+      "url": "https://blog.rust-lang.org/inside-rust/2019/10/11/AsyncAwait-Not-Send-Error-Improvements.html",
+      "comment": null,
+      "found": 1628227672168,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "5kbtwknfoj",
+      "name": "Why do we work so hard? | The Economist",
+      "url": "https://www.economist.com/1843/2016/03/02/why-do-we-work-so-hard",
+      "comment": null,
+      "found": 1628297339541,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "bgohrxcaxd",
+      "name": "Why do we work so hard? | The Economist",
+      "url": "https://www.economist.com/1843/2016/03/02/why-do-we-work-so-hard",
+      "comment": null,
+      "found": 1628297356438,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "dk4ozhtkwk",
+      "name": "Generous with individuals and selfish to the masses | Nature Human Behaviour",
+      "url": "https://www.nature.com/articles/s41562-021-01170-0",
+      "comment": null,
+      "found": 1628298059596,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "oxbblowidc",
+      "name": "Nadia Eghbal | The New American University",
+      "url": "https://nadiaeghbal.com/asu",
+      "comment": null,
+      "found": 1628298910679,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "7cavoerhew",
+      "name": null,
+      "url": "https://twitter.com/roun_sa_ville/status/1291455311841316865",
+      "comment": null,
+      "found": 1628366230983,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "x07sus4m16",
+      "name": "The Most Important Act of the Last Two Decades? - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/08/the-most-important-act-of-the-last-two-decades.html",
+      "comment": null,
+      "found": 1628383936516,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "rtx1vuwiop",
+      "name": "Where Are The Robotic Bricklayers? - by Brian Potter - Construction Physics",
+      "url": "https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers?token=eyJ1c2VyX2lkIjoyMjAxMCwicG9zdF9pZCI6MzkzMzM4MjQsIl8iOiJld0wxKyIsImlhdCI6MTYyNzkxMjk2MCwiZXhwIjoxNjI3OTE2NTYwLCJpc3MiOiJwdWItMTA0MDU4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.LMfVa2eXTKHD9mImIREkaIWtwaTU53rtZeKR6c1AEHk",
+      "comment": null,
+      "found": 1628472723945,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "ohoxtinpk0",
+      "name": "\n    \n      Lock-freedom without garbage collection · Aaron Turon\n    \n  ",
+      "url": "http://aturon.github.io/tech/2015/08/27/epoch/",
+      "comment": null,
+      "found": 1628473393734,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "leqpkxeylf",
+      "name": "Overcoming Bias : Status Madness Starves Religion",
+      "url": "https://www.overcomingbias.com/2021/08/status-madness-starves-religion.html",
+      "comment": null,
+      "found": 1628572915868,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "ainb6adk8c",
+      "name": "Desperate Afghans Are Trapped in an American-Made Fiasco",
+      "url": "https://theintercept.com/2021/08/12/afghanistan-taliban-exit/?utm_medium=email&utm_source=The%20Intercept%20Newsletter",
+      "comment": null,
+      "found": 1629075255766,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "egzf6uv5ig",
+      "name": "Where Are The Robotic Bricklayers? - by Brian Potter - Construction Physics",
+      "url": "https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers?token=eyJ1c2VyX2lkIjoyMjAxMCwicG9zdF9pZCI6MzkzMzM4MjQsIl8iOiJld0wxKyIsImlhdCI6MTYyNzkxMjk2MCwiZXhwIjoxNjI3OTE2NTYwLCJpc3MiOiJwdWItMTA0MDU4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.LMfVa2eXTKHD9mImIREkaIWtwaTU53rtZeKR6c1AEHk",
+      "comment": null,
+      "found": 1629079951248,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "hnb6zah05v",
+      "name": "How Blank Street Is Rethinking NYC’s Coffee Carts",
+      "url": "https://www.grubstreet.com/2021/08/blank-street-nyc-coffee-cart-startup.html",
+      "comment": null,
+      "found": 1629159829814,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "3hfrn4pv94",
+      "name": "\n        \n        Getting in and out of trouble with Rust futures - fasterthanli.me\n        \n    ",
+      "url": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures",
+      "comment": null,
+      "found": 1629160025147,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "pty2ebagl6",
+      "name": "The labor market ran hot, real wages fell - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/08/the-labor-market-ran-hot-real-wages-fell.html",
+      "comment": null,
+      "found": 1629239499256,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "5p4qvh3g1n",
+      "name": "Why Is It So Hard to Be Rational? | The New Yorker",
+      "url": "https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational?utm_source=nl&utm_brand=tny&utm_mailing=TNY_Daily_081621&utm_campaign=aud-dev&utm_medium=email&bxid=5bd66fd02ddf9c6194389d0a&cndid=22300418&hasha=268e3cc9cd4f93e81125ff99bc15edb0&hashb=f8df4272800edcc1fe2e8ce7e5c53aa6c2b79fe9&hashc=5906abdd2530ce567de22e52d1c561df763a24583893148a04c39e9a87bfced3&esrc=AUTO_OTHER&utm_content=B&utm_term=TNY_Daily",
+      "comment": null,
+      "found": 1629388821067,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "chn0wuhkd8",
+      "name": "[98] Evidence of Fraud in an Influential Field Experiment About Dishonesty - Data Colada",
+      "url": "https://datacolada.org/98",
+      "comment": null,
+      "found": 1629391946327,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "h90k1gmgfc",
+      "name": "A Thread from @ZoharAtkins: \"I am delighted to bring you a @threadapalooza on Friedrich Schlegel (1772-1829), philosopher, poet, [...]\"",
+      "url": "https://threader.app/thread/1425181273639866369",
+      "comment": null,
+      "found": 1629395963196,
+      "last_read": "2021-08-19T17:59:32.176743Z",
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "txwuj4dzpe",
+      "name": null,
+      "url": "https://www.cs.princeton.edu/~arvindn/publications/precautionary.pdf",
+      "comment": null,
+      "found": 1629397577904,
+      "last_read": "2021-08-19T18:26:28.919943Z",
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "tkvzmvfsaq",
+      "name": "Econ 101, the Drug War, and Afghanistan - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/08/econ-101-the-drug-war-and-afghanistan.html",
+      "comment": null,
+      "found": 1630468562770,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "2rv6tdxj8j",
+      "name": "400 Bad Request",
+      "url": "https://how-sen.com/journal/2014/2/bike-helmets?fbclid=IwAR3KRBESvDwgxEItuRK-0uwo3dEqtjSQXFTpy7Adu_Iu9u41jQdl341eKDY",
+      "comment": null,
+      "found": 1630646436875,
       "last_read": null,
       "index_status": null,
       "tags": []
