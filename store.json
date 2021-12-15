@@ -669,7 +669,7 @@
       "comment": null,
       "found": 1629239499256,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -679,7 +679,7 @@
       "comment": null,
       "found": 1629388821067,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -689,7 +689,7 @@
       "comment": null,
       "found": 1629391946327,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -699,7 +699,7 @@
       "comment": null,
       "found": 1629395963196,
       "last_read": "2021-08-19T17:59:32.176743Z",
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -709,7 +709,7 @@
       "comment": null,
       "found": 1629397577904,
       "last_read": "2021-08-19T18:26:28.919943Z",
-      "index_status": null,
+      "index_status": "Indexing",
       "tags": []
     },
     {
@@ -719,7 +719,7 @@
       "comment": null,
       "found": 1630468562770,
       "last_read": null,
-      "index_status": null,
+      "index_status": "Indexed",
       "tags": []
     },
     {
@@ -728,6 +728,456 @@
       "url": "https://how-sen.com/journal/2014/2/bike-helmets?fbclid=IwAR3KRBESvDwgxEItuRK-0uwo3dEqtjSQXFTpy7Adu_Iu9u41jQdl341eKDY",
       "comment": null,
       "found": 1630646436875,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "lkhjd6pkmv",
+      "name": "Who is the Wealthiest Generation? – Economist Writing Every Day",
+      "url": "https://economistwritingeveryday.com/2021/09/01/who-is-the-wealthiest-generation/",
+      "comment": null,
+      "found": 1630646750403,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "yncaecy7va",
+      "name": "This Can't Go On",
+      "url": "https://www.cold-takes.com/this-cant-go-on/",
+      "comment": null,
+      "found": 1631144296464,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "hlrwnkpplh",
+      "name": "This Can't Go On",
+      "url": "https://www.cold-takes.com/this-cant-go-on/",
+      "comment": null,
+      "found": 1632023223653,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "fbcyksejrb",
+      "name": "Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.",
+      "url": "https://www.lynalden.com/bitcoin-energy/",
+      "comment": null,
+      "found": 1632359148375,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "bzqhavc8f3",
+      "name": "Doordash and Pizza Arbitrage",
+      "url": "https://www.readmargins.com/p/doordash-and-pizza-arbitrage",
+      "comment": null,
+      "found": 1633549408396,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "jqhyh9lu6w",
+      "name": "Goya, The Sleep of Reason Produces Monsters (article) | Khan Academy",
+      "url": "https://www.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain/a/goya-the-sleep-of-reason-produces-monsters",
+      "comment": null,
+      "found": 1634180337350,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "ssylrsidj9",
+      "name": "More details about the October 4 outage - Facebook Engineering",
+      "url": "https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/",
+      "comment": null,
+      "found": 1634353549299,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "t6aeqqzvmh",
+      "name": "Goya, The Sleep of Reason Produces Monsters (article) | Khan Academy",
+      "url": "https://www.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain/a/goya-the-sleep-of-reason-produces-monsters",
+      "comment": null,
+      "found": 1634418236602,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "leebr3p1nb",
+      "name": "\n        SR-71's \"R2-D2\" Could Be The Key To Winning Future Fights In GPS Denied Environments\n        \n            \n        \n\n    ",
+      "url": "https://www.thedrive.com/the-war-zone/17207/sr-71s-r2-d2-could-be-the-key-to-winning-future-fights-in-gps-denied-environments",
+      "comment": null,
+      "found": 1634418382622,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "lkwxfk9lwr",
+      "name": "Transistor Gates",
+      "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html",
+      "comment": null,
+      "found": 1634418593561,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "pu9zunyy1g",
+      "name": "Trapped Aboard an Abandoned Cargo Ship: One Sailor’s Four-Year Ordeal - WSJ",
+      "url": "https://www.wsj.com/articles/sailor-trapped-aboard-abandoned-cargo-ship-four-years-11619789989?mod=article_inline",
+      "comment": null,
+      "found": 1634696926945,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "fvityuomge",
+      "name": "Liberal paradox - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liberal_paradox",
+      "comment": null,
+      "found": 1634698766674,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "1xtwqk529z",
+      "name": "School quality in cities, from my email - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/10/school-quality-in-cities.html",
+      "comment": null,
+      "found": 1634699045969,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "vra0yxqwxa",
+      "name": "The robot that can make pasta and sauce — and save restaurants 60% on rent | Sifted",
+      "url": "https://sifted.eu/articles/cala-robot/",
+      "comment": null,
+      "found": 1634700178219,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "fis9nnfk5d",
+      "name": "Fundamental theorems of welfare economics - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fundamental_theorems_of_welfare_economics",
+      "comment": null,
+      "found": 1634877609839,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "oxyg26pofc",
+      "name": "Liberal paradox - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liberal_paradox",
+      "comment": null,
+      "found": 1634877616038,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "eafpmqp1zt",
+      "name": "GitOps With GitHub Actions and EKS",
+      "url": "https://www.weave.works/blog/gitops-with-github-actions-eks",
+      "comment": null,
+      "found": 1634952283810,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "eswd5lvn0g",
+      "name": "Causal Inference at Twitter - Marginal REVOLUTION",
+      "url": "https://marginalrevolution.com/marginalrevolution/2021/10/causal-inference-at-twitter.html",
+      "comment": null,
+      "found": 1635122859261,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "mngtsmpxcr",
+      "name": "The Triumph and Terror of Wang Huning – Palladium",
+      "url": "https://palladiummag.com/2021/10/11/the-triumph-and-terror-of-wang-huning/",
+      "comment": null,
+      "found": 1635298286562,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "te1cbr6zsm",
+      "name": "Why is the Government Buying Long-Term Bonds? | Dollars &amp; Sense",
+      "url": "http://dollarsandsense.org/archives/2011/0111reuss1.html",
+      "comment": null,
+      "found": 1636086828198,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "asuiaqdevt",
+      "name": "Federal Funds Effective Rate (FEDFUNDS) | FRED | St. Louis Fed",
+      "url": "https://fred.stlouisfed.org/series/FEDFUNDS",
+      "comment": null,
+      "found": 1636087079096,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "pljnqsmhrl",
+      "name": "Biohackers Encoded Malware in a Strand of DNA | WIRED",
+      "url": "https://www.wired.com/story/malware-dna-hack/",
+      "comment": null,
+      "found": 1636087178785,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "mar7tj7f22",
+      "name": "Koyeb - Service Mesh and Microservices: Improving Network Management and Observability",
+      "url": "https://www.koyeb.com/blog/service-mesh-and-microservices-improving-network-management-and-observability",
+      "comment": null,
+      "found": 1636331609184,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "r8lfw0o3kt",
+      "name": "MIT-designed project achieves major advance toward fusion energy | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908?utm_source=join1440&utm_medium=email",
+      "comment": null,
+      "found": 1636333285882,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "h953u71c4d",
+      "name": "Commuting Has Surprising Mental-Health Benefits - The Atlantic",
+      "url": "https://www.theatlantic.com/magazine/archive/2021/07/admit-it-you-miss-your-commute/619007/",
+      "comment": null,
+      "found": 1636698612316,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "tne0xjcn6j",
+      "name": "Tunnels are our Transportation Future - Austin Vernon's Blog",
+      "url": "https://austinvernon.eth.link/blog/tunnels.html",
+      "comment": null,
+      "found": 1636858917473,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "jqplh8ftpr",
+      "name": "The three-or-four-hours rule | Oliver Burkeman",
+      "url": "https://www.oliverburkeman.com/fourhours",
+      "comment": null,
+      "found": 1636860494072,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "dfkzsjymb0",
+      "name": "October 2021 Newsletter: A Resurgence in Value",
+      "url": "https://www.lynalden.com/october-2021-newsletter/",
+      "comment": null,
+      "found": 1637216207635,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "gfz3qaknxv",
+      "name": "David Graeber interview: ‘So many people spend their working lives doing jobs they think are unnecessary’ | Books | The Guardian",
+      "url": "https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules",
+      "comment": null,
+      "found": 1637306810526,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "he2l34vnxb",
+      "name": "Tether And The Great Crypto Ice Age  | Hacker Noon",
+      "url": "https://hackernoon.com/tether-and-the-great-crypto-ice-age-i15h329k",
+      "comment": null,
+      "found": 1637469020320,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "ealefd9fkk",
+      "name": "Thread by @benskuhn on Thread Reader App – Thread Reader App",
+      "url": "https://threadreaderapp.com/thread/1419281153983500290.html",
+      "comment": null,
+      "found": 1637562268925,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "52kkyrsban",
+      "name": " Against overuse of the Gini coefficient ",
+      "url": "https://vitalik.ca/general/2021/07/29/gini.html",
+      "comment": null,
+      "found": 1637646209589,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "tjg2xhiw50",
+      "name": "Opinion | The Labor Shortage Is Empowering Workers to Demand Better Jobs - The New York Times",
+      "url": "https://www.nytimes.com/2021/09/04/opinion/labor-shortage-biden-covid.html",
+      "comment": null,
+      "found": 1637646809321,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "scltybudfj",
+      "name": "DAOs, A Canon - Future",
+      "url": "https://future.a16z.com/dao-canon/",
+      "comment": null,
+      "found": 1637648001325,
+      "last_read": null,
+      "index_status": "Indexed",
+      "tags": []
+    },
+    {
+      "id": "4ncqg2itfr",
+      "name": "New programmable gene editing proteins found outside of CRISPR systems | Broad Institute",
+      "url": "https://www.broadinstitute.org/news/new-programmable-gene-editing-proteins-found-outside-crispr-systems",
+      "comment": null,
+      "found": 1637648277875,
+      "last_read": null,
+      "index_status": "Indexing",
+      "tags": []
+    },
+    {
+      "id": "yssoszpvj9",
+      "name": "Old Media - Nick Notes",
+      "url": "https://nickparish.net/technology/old-media/",
+      "comment": null,
+      "found": 1637891630527,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "b2d7ggdspy",
+      "name": "Austin Vernon on digital dollars (from my email) - Marginal REVOLUTION",
+      "url": "https://wp.me/p2T8CM-l6V",
+      "comment": null,
+      "found": 1637895290886,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "8rzqwqqqyn",
+      "name": "An E. coli biocomputer solves a maze by sharing the work | MIT Technology Review",
+      "url": "https://www.technologyreview.com/2021/11/09/1039107/e-coli-maze-solving-biocomputer/",
+      "comment": null,
+      "found": 1638511901468,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "luhny6bfcc",
+      "name": "Neovim and Rust :: sharksforarms",
+      "url": "https://sharksforarms.dev/posts/neovim-rust/",
+      "comment": null,
+      "found": 1638933933902,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "fhcdozdnx3",
+      "name": "Stubborn Attachments From Behind The Veil",
+      "url": "https://virginica.substack.com/p/stubborn-attachments-from-behind",
+      "comment": null,
+      "found": 1639253020136,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "kfgnuf8zen",
+      "name": "Inside the Magic Pocket - Dropbox",
+      "url": "https://dropbox.tech/infrastructure/inside-the-magic-pocket",
+      "comment": null,
+      "found": 1639262695700,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "hppsyifhya",
+      "name": "Random Snowflake Generator Based on Cellular Automaton - Online Technical Discussion Groups—Wolfram Community",
+      "url": "https://community.wolfram.com/groups/-/m/t/235291",
+      "comment": null,
+      "found": 1639374400327,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "if1xjffz8j",
+      "name": "data structures - How do I represent a hextile/hex grid in memory? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/1838656/how-do-i-represent-a-hextile-hex-grid-in-memory",
+      "comment": null,
+      "found": 1639377302859,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "ad3s7qqjf2",
+      "name": "For and Against Lotteries in Elite University Admissions – Sam Enright",
+      "url": "https://samenright.com/2021/12/12/for-and-against-lotteries-in-elite-university-admissions/",
+      "comment": null,
+      "found": 1639536952348,
+      "last_read": null,
+      "index_status": null,
+      "tags": []
+    },
+    {
+      "id": "ataggmny2d",
+      "name": "Goodhart's law - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+      "comment": null,
+      "found": 1639536966935,
       "last_read": null,
       "index_status": null,
       "tags": []
